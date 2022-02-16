@@ -10,16 +10,16 @@
   </a>
 </p>
 
-<h3 align="center">A passionate fullstack developer from India</h3>
-<h3 align="center">Bachelor in Engineering, Computer Science (To be graduated in 2022)</h3>
+<h3 align="center">Una Desarrolladora Apasionada JS</h3>
+<h3 align="center">Ingeniería en Tecnologías y Computacionales</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=sachinverma53121 alt=sachinverma53121/></p>
 
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on **vKarma Webapp**
-- 🌱 I’m currently learning ... **Django and React.js**
+- 🔭 Actualmente estoy trabajando **rebeliononline.com**
+- 🌱 Actualmente estoy aprendiendo ... **React Native y Laravel**
 - 💬 Ask me about ... **Web Develpoment**
 - 😄 Employement ... **Open for intern opportunities**
 - ⚡ Fun fact ... **Anime**❤
