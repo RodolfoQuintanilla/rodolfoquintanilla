@@ -1,11 +1,11 @@
 
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, Soy Rodolfo Quintanilla</h1>
  <p align="center"><br/>
-   <a href="https://www.linkedin.com/in/sachuverma/">
+   <a href="https://www.linkedin.com/in/rodolfo-quintanilla-88396055/">
     <img src="https://img.shields.io/badge/linkedin-sachuverma-blue">
   </a>
   
-  <a href="https://www.instagram.com/sachuverma_/">
+  <a href="https://www.instagram.com/yosoyelrorro/">
     <img src="https://img.shields.io/badge/instagram-sachuverma_-red">
   </a>
 </p>
