@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<h3 align="center">Un Desarrollador Apasionad JS</h3>
+<h3 align="center">Un Desarrollador Apasionado JS</h3>
 <h3 align="center">Ingeniero en Tecnologías de la Informacion y Comunicaciones</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=sachinverma53121 alt=sachinverma53121/></p>
 
@@ -20,10 +20,9 @@
 
 - 🔭 Actualmente estoy trabajando **Rebelion Online**
 - 🌱 Actualmente estoy aprendiendo ... **React Native y Laravel**
-- 💬 Ask me about ... **Web Develpoment**
-- 😄 Employement ... **Open for intern opportunities**
-- ⚡ Fun fact ... **Anime**❤
-- 📫 How to reach me **rqm@outlook.es**
+- 👨‍💻 Empleo ... **Front-End**
+- 🏊‍♀️ Hobby ... **Nadar**❤
+- 📫 Aquí estoy **rqm@outlook.es**
 <h4>Lenguajes de Programación : </h4>
 <p align="left">
    <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/js.png" alt=javascript width="60" height="60"/>
@@ -83,14 +82,8 @@
 </p>
 
 <p align="center">
-	<img style="margin: auto;" src=https://github-readme-stats.vercel.app/api?username=sachinverma53121&show_icons=true alt=sachinverma53121 /> 
+	
+	<img style="margin: auto;" src=https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg /> 
 </p>
 
-<p align="center">
-<a href=https://codepen.io/sachuverma target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg alt="sachuverma" height="40" width="40" /></a>
-<a href=https://twitter.com/sachuverma_ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="sachuverma_" height="40" width="40" /></a>
-<a href=https://linkedin.com/in/sachuverma target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="sachuverma" height="40" width="40" /></a>
-<a href=https://instagram.com/sachuverma_ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="sachuverma_" height="40" width="40" /></a>
-</p>
 
-⭐️ From [Sachin Verma](https://github.com/sachinverma53121) <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  ```El Psy Kongroo```
