@@ -12,10 +12,11 @@
 
 <h3 align="center">Un Desarrollador Apasionado JS</h3>
 <h3 align="center">Ingeniero en Tecnologías de la Informacion y Comunicaciones</h3>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=sachinverma53121 alt=sachinverma53121/></p>
+
 
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 
 
 - 🔭 Actualmente estoy trabajando **Rebelion Online**
@@ -27,7 +28,7 @@
 <p align="left">
    <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/js.png" alt=javascript width="60" height="60"/>
 	 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="60"/>
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/php.png" alt=php width="60" height="60"/> 
+	<img style="margin: auto;" src="https://imgur.com/DgRWCSdg" alt=php width="60" height="60"/> 
 	
 </p>
 
@@ -82,8 +83,7 @@
 </p>
 
 <p align="center">
-	
-	<img style="margin: auto;" src=https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg /> 
+<img style="margin: auto;" src=https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg /> 
 </p>
 
 
