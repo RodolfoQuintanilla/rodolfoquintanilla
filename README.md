@@ -15,7 +15,7 @@
 
 
 
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="50%" align="right" alt="Github Image" src="https://i.imgur.com/DgRWCSd.gif" />
 
 
 
@@ -28,7 +28,7 @@
 <p align="left">
    <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/js.png" alt=javascript width="60" height="60"/>
 	 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="60"/>
-	<img style="margin: auto;" src="https://imgur.com/DgRWCSdg" alt=php width="60" height="60"/> 
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/>  
 	
 </p>
 
