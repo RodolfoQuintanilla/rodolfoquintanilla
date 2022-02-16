@@ -10,20 +10,20 @@
   </a>
 </p>
 
-<h3 align="center">Una Desarrolladora Apasionada JS</h3>
-<h3 align="center">Ingeniería en Tecnologías de la Informacion y Computacionales</h3>
+<h3 align="center">Un Desarrollador Apasionad JS</h3>
+<h3 align="center">Ingeniería en Tecnologías de la Informacion y Comunicaciones</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=sachinverma53121 alt=sachinverma53121/></p>
 
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 Actualmente estoy trabajando **rebeliononline.com**
+- 🔭 Actualmente estoy trabajando **Rebelion Online**
 - 🌱 Actualmente estoy aprendiendo ... **React Native y Laravel**
 - 💬 Ask me about ... **Web Develpoment**
 - 😄 Employement ... **Open for intern opportunities**
 - ⚡ Fun fact ... **Anime**❤
-- 📫 How to reach me **sachinverma53121@gmail.com**
+- 📫 How to reach me **rqm@outlook.es**
 <h4>Programming Languages: </h4>
 <p align="left">
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/cpp.png" alt=cplusplus width="60" height="60"/>
