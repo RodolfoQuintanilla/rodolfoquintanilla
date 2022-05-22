@@ -20,7 +20,7 @@
 - 🔭 Actualmente estoy trabajando **Rebelion Online**
 - 🌱 Actualmente estoy aprendiendo ... **React Native y Laravel**
 - 👨‍💻 Empleo ... **Front-End**
-- 🏊‍♀️ Hobby ... **Nadar**❤
+- 🏊‍♀️ Hobby ... **Nadar**
 - 📫 Aquí estoy **rqm@outlook.es**
 <h4>Lenguajes de Programación : </h4>
 <p align="left">
